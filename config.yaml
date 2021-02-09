@@ -17,7 +17,7 @@ params:
   description: 
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/Logo_US_4c.tiff
+    image: logos/Logo_US_4c.png
     link: /
   font:
     name: "TitilliumWeb-Regular.ttf"
@@ -102,7 +102,7 @@ params:
  # section5: true
   footer:
     # Logo (from /images/logos/___)
-    logo: Logo+Slogan_US_HKS Kopie_OhneFreizeit.pdf
+    logo: Logo+Slogan_US_HKS Kopie_OhneFreizeit.png
 
     bulmalogo: false
     quicklinks:
