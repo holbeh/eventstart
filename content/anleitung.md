@@ -4,7 +4,7 @@ date: 2021-01-28T18:24:15+01:00
 draft: false
 ---
 
-Wie wird die Plattfrom genutzt?
+Wie wird die Plattform genutzt?
 ===
 
 Dieses Tutorial soll einen kurzen Überblick und Empfehlungen für eine interessante EventPlatfform-Erfahrung bieten.

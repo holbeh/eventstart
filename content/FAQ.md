@@ -35,6 +35,6 @@ Leider ist in der aktuellen Big Sur Version auf Intel-Prozessoren ein Fehler, de
 
 ***Ich weiß nicht so recht was ich tun soll ...***
 
-Silke und Holger helfen Dir heute gerne weiter - schriebe uns eine Email unter <a href="mailto:segelschule@unterbachersee.de">segelschule@unterbachersee.de</a>. Wenn garnichts geht, dann schreibe direkt rein, dass wir Dich zurückrufen. Selbstverständlich können wir diesen Service nicht während des offiziellen Teils anbieten - aber das haben auch schon alle unsere Teilnehmer hinbekommen ...
+Wir helfen Dir gerne weiter - schriebe uns eine Email unter <a href="mailto:segelschule@unterbachersee.de">segelschule@unterbachersee.de</a>. Wenn garnichts geht, dann schreibe direkt rein, dass wir Dich zurückrufen. Selbstverständlich können wir diesen Service nicht während des offiziellen Teils anbieten - aber das haben auch schon alle unsere Teilnehmer hinbekommen ...
 
 tbc
