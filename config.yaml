@@ -1,0 +1,137 @@
+baseURL: http://events.unterbachersee.de
+languageCode: de
+title: Events
+theme: hugo-fresh
+disableKinds:
+- taxonomy
+- taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allows you to write raw html in your md files
+
+params:
+  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
+  openGraph: true
+  # Used as meta data; describe your site to make Google Bots happy 
+  description: 
+  navbarlogo:
+  # Logo (from static/images/logos/___)
+    image: logos/Logo_US_4c.tiff
+    link: /
+  font:
+    name: "TitilliumWeb-Regular.ttf"
+    sizes: [400,600]
+  hero:
+    # Main hero title
+    title: Unterbacher See Events
+    # Hero subtitle (optional)
+    subtitle: Die Event-Plattform für den Unterbacher See
+    # Button text
+    buttontext: Hier starten
+    # Where the main hero button links to
+    buttonlink: https://world.event.unterbachersee.de/_/global/https://gerry70.trudeltiere.de/map/Parkplatz.json
+    # Hero image (from static/images/___)
+    image: illustrations/worker.svg
+    # Footer logos (from static/images/logos/clients/___.svg)
+    
+  # Customizable navbar. For a dropdown, add a "sublinks" list
+  navbar:
+  - title: Kurzanleitung
+    url: /anleitung
+  - title: Impressum/Datenschutz
+    url: /impressum
+  - title: Event besuchen
+    url: https://world.event.unterbachersee.de/_/global/https://gerry70.trudeltiere.de/map/Parkplatz.json
+    button: true
+  section1:
+    title: Events am Unterbacher See
+    subtitle: Zeitplan
+    tiles:
+    - title: Crewtreffen 
+      icon: mouse-globe
+      text: Brunch 11.00 bis 12.00 Uhr
+      url: https://world.event.unterbachersee.de/_/global/https://gerry70.trudeltiere.de/map/Parkplatz.json
+      buttonText: hier starten
+    - title: "offizieller Teil" 
+      icon: laptop-cloud
+      text: Crewgespräch 12.00 bis ca. 13.30 Uhr
+      url: https://stream.unterbachersee.de/b/hol-wcq-b21-tuu
+      buttonText: Konferenzraum 
+    - title: Crewtreffen
+      icon: mouse-globe
+      text: Crewtreffen 12.30 bis ?
+      url: https://world.event.unterbachersee.de/_/global/https://gerry70.trudeltiere.de/map/Parkplatz.json
+      buttonText: hier starten
+
+  section2:
+    title: Wie funktioniert unser vituelles Crewtreffen?
+    subtitle: Eine Hilfestellung!
+    features:
+    - title: Brunch und inoffizieller Teil
+      text: Wir haben für uns eine vituelle Welt mit viel sozialem Charakter kreiert. Viele von uns haben sich seit dem Saisonende 2020 nicht mehr gesehen - unser Abschlusstreffen musste leider ausfallen. Deshalb jetzt hier eine virtuelle Welt... Lasst Euch einfach drauf ein, erkundet die Möglichkeiten und trefft aufeinander. Immer, wenn wir uns in der Welt treffen, können wir zu zweit oder in Kleingruppen bis 4 Personen miteinander sprechen. Es wäre prima, wenn Ihr hierfür Euer Mikrofon und Eure Kamera einschaltet. [Weitere informationen findet Ihr hier](/anleitung)
+      buttonText: Anleitung
+      # Icon (from /images/illustrations/icons/___.svg)
+      icon: mouse-globe
+    - title: offizieller Teil
+      text: In unserem offiziellen Teil möchten wir, wie auch sonst bei unseren Crewtreffen, Euch einen Überblick über das letzte und das kommende Jahr geben, Veränerungen erklären und auch ein wenig über den Diestplan sprechen. Wenn Ihr dem [Link](/) oben folgt werdet Ihr nach Eurem Namen und einem Zugangscode gefragt. Den Zugangscode habt Ihr mit der Einladung auf Eurem "Platzdeckchen" erhalten. 
+      icon: laptop-cloud
+
+  # section3:
+  #   title: One platform
+  #   subtitle: To rule them all
+  #   image: illustrations/mockups/app-mockup.png
+  #   buttonText: Get started
+  #   buttonLink: "#"
+  # section4:
+  #   title: Our Clients love us!
+  #   subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
+  #   clients:
+  #   - name: Irma Walters
+  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+  #     job: Accountant
+  #     img: 1
+  #   - name: John Bradley
+  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+  #     job: Financial Analyst
+  #     img: 2
+  #   - name: Gary Blackman
+  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+  #     job: HR Manager
+  #     img: 3
+ # section5: true
+  footer:
+    # Logo (from /images/logos/___)
+    logo: Logo+Slogan_US_HKS Kopie_OhneFreizeit.pdf
+
+    bulmalogo: false
+    quicklinks:
+      column1:
+        title: "Informationen"
+        links:
+        - text: FAQs
+          link: /faq
+        - text: Datenschutz
+          link: /impressum
+        - text: Impressum
+          link: /impressum
+      column2:
+        title: "Anleitungen"
+        links:
+        - text: inoffizieller Teil
+          link: https://world.event.unterbachersee.de/_/global/https://gerry70.trudeltiere.de/map/Parkplatz.json
+        - text: offizieller Teil
+          link: https://stream.unterbachersee.de/b/hol-wcq-b21-tuu
+      column3:
+        title: "Danke!"
+        links:
+        - text: Servertechnik (Finn)
+          link: /posts/it-technik
+        - text: Inhalte (Tjaard)
+          link: /posts/inhalte
+      column4:
+        title: "Hilfestellung"
+        links:
+        - text: Email-Hilfe
+          link: mailto:segelschule@unterbachersee.de    
+
