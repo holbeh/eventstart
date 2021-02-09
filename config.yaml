@@ -1,4 +1,4 @@
-baseURL: http://events.unterbachersee.de
+baseURL: http://event.unterbachersee.de
 languageCode: de
 title: Events
 theme: hugo-fresh
@@ -30,7 +30,7 @@ params:
     # Button text
     buttontext: Hier starten
     # Where the main hero button links to
-    buttonlink: https://world.event.unterbachersee.de/_/global/https://gerry70.trudeltiere.de/map/Parkplatz.json
+    buttonlink: /geduld
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
     # Footer logos (from static/images/logos/clients/___.svg)
@@ -38,11 +38,11 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list
   navbar:
   - title: Kurzanleitung
-    url: /anleitung
+    url: /geduld
   - title: Impressum/Datenschutz
     url: /impressum
   - title: Event besuchen
-    url: https://world.event.unterbachersee.de/_/global/https://gerry70.trudeltiere.de/map/Parkplatz.json
+    url: /geduld
     button: true
   section1:
     title: Events am Unterbacher See
@@ -51,30 +51,31 @@ params:
     - title: Crewtreffen 
       icon: mouse-globe
       text: Brunch 11.00 bis 12.00 Uhr
-      url: https://world.event.unterbachersee.de/_/global/https://gerry70.trudeltiere.de/map/Parkplatz.json
+      url: /geduld
       buttonText: hier starten
     - title: "offizieller Teil" 
       icon: laptop-cloud
       text: Crewgespräch 12.00 bis ca. 13.30 Uhr
-      url: https://stream.unterbachersee.de/b/hol-wcq-b21-tuu
+      url: /geduld
       buttonText: Konferenzraum 
     - title: Crewtreffen
       icon: mouse-globe
       text: Crewtreffen 12.30 bis ?
-      url: https://world.event.unterbachersee.de/_/global/https://gerry70.trudeltiere.de/map/Parkplatz.json
+      url: /geduld
       buttonText: hier starten
 
   section2:
-    title: Wie funktioniert unser vituelles Crewtreffen?
+    title: Wie funktioniert unser virtuelles Crewtreffen?
     subtitle: Eine Hilfestellung!
     features:
     - title: Brunch und inoffizieller Teil
-      text: Wir haben für uns eine vituelle Welt mit viel sozialem Charakter kreiert. Viele von uns haben sich seit dem Saisonende 2020 nicht mehr gesehen - unser Abschlusstreffen musste leider ausfallen. Deshalb jetzt hier eine virtuelle Welt... Lasst Euch einfach drauf ein, erkundet die Möglichkeiten und trefft aufeinander. Immer, wenn wir uns in der Welt treffen, können wir zu zweit oder in Kleingruppen bis 4 Personen miteinander sprechen. Es wäre prima, wenn Ihr hierfür Euer Mikrofon und Eure Kamera einschaltet. [Weitere informationen findet Ihr hier](/anleitung)
+      text: Für diesen Teil benötigst Du Dein vorbereitetes Brunch-Buffet und einen Rechner möglichst mit Kamera, Mikrofon und Lautsprecher. Mehr möchten wir jetzt noch nicht verraten ...
+      # text: Wir haben für uns eine vituelle Welt mit viel sozialem Charakter kreiert. Viele von uns haben sich seit dem Saisonende 2020 nicht mehr gesehen - unser Abschlusstreffen musste leider ausfallen. Deshalb jetzt hier eine virtuelle Welt... Lasst Euch einfach drauf ein, erkundet die Möglichkeiten und trefft aufeinander. Immer, wenn wir uns in der Welt treffen, können wir zu zweit oder in Kleingruppen bis 4 Personen miteinander sprechen. Es wäre prima, wenn Ihr hierfür Euer Mikrofon und Eure Kamera einschaltet. [Weitere informationen findet Ihr hier](/anleitung)
       buttonText: Anleitung
       # Icon (from /images/illustrations/icons/___.svg)
       icon: mouse-globe
     - title: offizieller Teil
-      text: In unserem offiziellen Teil möchten wir, wie auch sonst bei unseren Crewtreffen, Euch einen Überblick über das letzte und das kommende Jahr geben, Veränerungen erklären und auch ein wenig über den Diestplan sprechen. Wenn Ihr dem [Link](/) oben folgt werdet Ihr nach Eurem Namen und einem Zugangscode gefragt. Den Zugangscode habt Ihr mit der Einladung auf Eurem "Platzdeckchen" erhalten. 
+      text: In unserem offiziellen Teil möchten wir, wie auch sonst bei unseren Crewtreffen, Euch einen Überblick über das letzte und das kommende Jahr geben, Veränerungen erklären und auch ein wenig über den Diestplan sprechen. Wenn Ihr dem [Link](/geduld) oben folgt werdet Ihr nach Eurem Namen und einem Zugangscode gefragt. Den Zugangscode habt Ihr mit der Einladung auf Eurem "Platzdeckchen" erhalten. 
       icon: laptop-cloud
 
   # section3:
@@ -119,9 +120,9 @@ params:
         title: "Anleitungen"
         links:
         - text: inoffizieller Teil
-          link: https://world.event.unterbachersee.de/_/global/https://gerry70.trudeltiere.de/map/Parkplatz.json
+          link: /geduld
         - text: offizieller Teil
-          link: https://stream.unterbachersee.de/b/hol-wcq-b21-tuu
+          link: /posts/anleitung_offiziell
       column3:
         title: "Danke!"
         links:

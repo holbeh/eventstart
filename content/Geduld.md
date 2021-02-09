@@ -13,4 +13,4 @@ Was machst Du jetzt schon hier?
 ---
 
 
-Spaß beiseite - um jetzt hier noch nicht zuviel zu verraten werden wir viele Teile dieser Internetseite erst am 21.Februar 2021 ab ca. 10.30 Uhr freigeben. Sei also gespannt und habe noch etwas ***Geduld***.
+Spaß beiseite - um jetzt hier noch nicht zuviel zu verraten werden wir viele Teile dieser Internetseite erst am 21. Februar 2021 ab ca. 10.30 Uhr freigeben. Sei also gespannt und habe noch etwas ***Geduld***.
