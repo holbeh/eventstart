@@ -16,11 +16,13 @@ draft: false
  }
 </script>
 
+Hier öffnet sich eine externe Webseite. Wenn Du das nicht möchtest, dann gehe einfach weiter. 
 
+Wenn Du insteresse an dieser Webseite hast, dann kannst Du selbige direkt hier öffnen oder als neue Seite öffnen, ganz, wie Du möchtest.
 
 <button type="button" onclick="onOpenClick(true)">
-Go to external site
+hier öffnen
 </button>
 <button type="button" onclick="onOpenClick(false)">
-open external site
+als neue Seite öffnen
 </button>
