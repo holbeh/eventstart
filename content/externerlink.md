@@ -16,9 +16,9 @@ externe webseite
 
 Wenn Du insteresse an dieser Webseite hast, dann kannst Du selbige direkt hier öffnen oder als neue Seite öffnen, ganz, wie Du möchtest.
 
-<button type="button" onclick="onButtonOpenClick(false)">
+<button type="button" id="button_self">
 hier öffnen
 </button>
-<button type="button" onclick="onButtonOpenClick(true)">
+<button type="button" id="button_blank">
 als neue Seite öffnen
 </button>
