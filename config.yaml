@@ -30,7 +30,7 @@ params:
     # Button text
     buttontext: Hier starten
     # Where the main hero button links to
-    buttonlink: https://world.event.unterbachersee.de/_/global/https://gerry70.trudeltiere.de/map/Parkplatz.json
+    buttonlink: https://world.event.unterbachersee.de/_/global/https://event.unterbachersee.de/map/Parkplatz.json
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
     # Footer logos (from static/images/logos/clients/___.svg)
@@ -42,7 +42,7 @@ params:
   - title: Impressum/Datenschutz
     url: /impressum
   - title: Event besuchen
-    url: https://world.event.unterbachersee.de/_/global/https://gerry70.trudeltiere.de/map/Parkplatz.json
+    url: https://world.event.unterbachersee.de/_/global/https://event.unterbachersee.de/map/Parkplatz.json
     button: true
   section1:
     title: Events am Unterbacher See
@@ -51,7 +51,7 @@ params:
     - title: Crewtreffen 
       icon: mouse-globe
       text: Brunch 11.00 bis 12.00 Uhr
-      url: https://world.event.unterbachersee.de/_/global/https://gerry70.trudeltiere.de/map/Parkplatz.json
+      url: https://world.event.unterbachersee.de/_/global/https://event.unterbachersee.de/map/Parkplatz.json
       buttonText: hier starten
     - title: "offizieller Teil" 
       icon: laptop-cloud
@@ -60,8 +60,8 @@ params:
       buttonText: Konferenzraum 
     - title: Crewtreffen
       icon: mouse-globe
-      text: Crewtreffen 12.30 bis ?
-      url: https://world.event.unterbachersee.de/_/global/https://gerry70.trudeltiere.de/map/Parkplatz.json
+      text: Crewtreffen 13.30 bis ?
+      url: https://world.event.unterbachersee.de/_/global/https://event.unterbachersee.de/map/Parkplatz.json
       buttonText: hier starten
 
   section2:
@@ -69,12 +69,12 @@ params:
     subtitle: Eine Hilfestellung!
     features:
     - title: Brunch und inoffizieller Teil
-      text: Wir haben für uns eine vituelle Welt mit viel sozialem Charakter kreiert. Viele von uns haben sich seit dem Saisonende 2020 nicht mehr gesehen - unser Abschlusstreffen musste leider ausfallen. Deshalb jetzt hier eine virtuelle Welt... Lasst Euch einfach drauf ein, erkundet die Möglichkeiten und trefft aufeinander. Immer, wenn wir uns in der Welt treffen, können wir zu zweit oder in Kleingruppen bis 4 Personen miteinander sprechen. Es wäre prima, wenn Ihr hierfür Euer Mikrofon und Eure Kamera einschaltet. [Weitere informationen findet Ihr hier](/anleitung)
+      text: Wir haben für uns eine virtuelle Welt mit viel sozialem Charakter kreiert. Viele von uns haben sich seit dem Saisonende 2020 nicht mehr gesehen - unser Abschlusstreffen musste leider ausfallen. Deshalb jetzt hier eine virtuelle Welt... Lasst Euch einfach drauf ein, erkundet die Möglichkeiten und trefft aufeinander. Immer, wenn wir uns in der Welt treffen, können wir zu zweit oder in Kleingruppen bis 4 Personen miteinander sprechen. Es wäre prima, wenn Ihr hierfür Euer Mikrofon und Eure Kamera einschaltet. [Weitere informationen findet Ihr hier](/anleitung)
       buttonText: Anleitung
       # Icon (from /images/illustrations/icons/___.svg)
       icon: mouse-globe
     - title: offizieller Teil
-      text: In unserem offiziellen Teil möchten wir, wie auch sonst bei unseren Crewtreffen, Euch einen Überblick über das letzte und das kommende Jahr geben, Veränerungen erklären und auch ein wenig über den Diestplan sprechen. Wenn Ihr dem [Link](/) oben folgt werdet Ihr nach Eurem Namen und einem Zugangscode gefragt. Den Zugangscode habt Ihr mit der Einladung auf Eurem "Platzdeckchen" erhalten. 
+      text: In unserem offiziellen Teil möchten wir, wie auch sonst bei unseren Crewtreffen, Euch einen Überblick über das letzte und die kommende Saison geben, Veränderungen erklären und auch ein wenig über den Dienstplan sprechen. Wenn Ihr dem [Link](https://stream.unterbachersee.de/b/hol-wcq-b21-tuu) oben folgt werdet Ihr nach Eurem Namen und einem Zugangscode gefragt. Den Zugangscode habt Ihr mit der Einladung auf Eurem "Platzdeckchen" erhalten. 
       icon: laptop-cloud
 
   # section3:
@@ -119,9 +119,9 @@ params:
         title: "Anleitungen"
         links:
         - text: inoffizieller Teil
-          link: https://world.event.unterbachersee.de/_/global/https://gerry70.trudeltiere.de/map/Parkplatz.json
+          link: /anleitung
         - text: offizieller Teil
-          link: https://stream.unterbachersee.de/b/hol-wcq-b21-tuu
+          link: /posts/anleitung_offiziell
       column3:
         title: "Danke!"
         links:

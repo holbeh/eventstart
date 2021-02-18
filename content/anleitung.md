@@ -43,7 +43,8 @@ Die Event-Plattform besteht aus verschiedenen Karten, die interaktive Elemente w
 
 ### Webseiten und Jitsi-Räume
 
-Webseiten und Jitsi-Räume öffnen sich in einem Overlay über die rechte Hälfte des Bildschirms. Für externe Webseiten schalten wir einen Dereferrer vor, der euch um Erlaubnis fragt.  <!---Wenn Ihr nicht jedes Mal gefragt werden wollt, könnt Ihr den "Erinnere mich in 10 Minuten"-Button nutzen.--->
+Webseiten und Jitsi-Räume öffnen sich in einem Overlay über die rechte Hälfte des Bildschirms. Für externe Webseiten schalten wir einen Dereferrer vor, der euch um Erlaubnis fragt.  
+<!---Wenn Ihr nicht jedes Mal gefragt werden wollt, könnt Ihr den "Erinnere mich in 10 Minuten"-Button nutzen.--->
 
 ### Audio
 
@@ -65,3 +66,6 @@ Falls Ihr das Feature nicht nutzen wollt, könnt Ihr es im Hub deaktivieren.
 Bitte checkt Eure AddOns und Script-Blocker und gebt *.unterbachersee.de frei. Falls das nicht hilft, könnt Ihr einen Blick in die Dev-Tools Eures Browsers werfen und dort nach Fehlern schauen.
 
 
+## jetzt aber los ##
+
+**Genug der vielen Worte; hier geht es zum Unterbacher See: [inoffizieller Teil ](https://world.event.unterbachersee.de/_/global/https://event.unterbachersee.de/map/Parkplatz.json)**
