@@ -40,7 +40,17 @@ Mac-User müssten bitte statt der Strg-Taste die cmd-Taste betätigen.
 
 ***Wenn ich das Event besuche kommt nur ein großer schwarzer Bildschirm...***
 
-Gebe einfach mal Deinen Namen ein und betätige die ENTER-Taste. Und schon geht es weiter. (natürlich erst am Tag ser Veranstaltung)
+Gebe einfach mal Deinen Namen ein und betätige die ENTER-Taste. Und schon geht es weiter (natürlich erst am Tag der Veranstaltung).
+
+***Meine Figur bewegt sich nicht mehr richtig - hat sich festgerannt***
+
+Die Software ist relativ neu und hat hier und da noch ein paar kleine Fehler - wenn Ihr Eure Figur (also Euch selbst) nicht mehr richtig bewegen könnt, dann drückt bitte folgende Tastenkombination: 
+
+***Apple:*** command - shift - r (command und shift gedrückt halten, r dazu drücken)
+
+***PC:*** strg - shift - r (strg und shift gedrückt halten, r dazu drücken)
+
+So landet Ihr wieder auf dem Startpunkt der aktuellen Karte.
 
 ***Ich weiß nicht so recht was ich tun soll ...***
 

@@ -23,7 +23,7 @@ Wir behalten uns vor Teilnehmer:innen, die sich nicht entsprechend verhalten, zu
 
 Ihr braucht einen Computer oder mindestens ein Gerät mit physischer Tastatur. Ein Tablet mit Tastatur scheint zu funktionieren.
 
-Da die Event-Plattform ein interaktives Multiplayer-Erlebnis ist, werden Kamera und Mikrofon empfohlen. Ihr braucht sie aber nicht zwingend um teilzunehmen, Interaktionen mit anderen werden ohne aber sehr langweilig sein.
+Da die Event-Plattform ein interaktives Multiplayer-Erlebnis ist, werden Kamera und Mikrofon empfohlen. Ihr braucht sie aber nicht zwingend um teilzunehmen, Interaktionen mit anderen werden ohne diese aber sehr langweilig sein.
 
 ### Browser
 
@@ -39,7 +39,7 @@ Um einen besseren Überblick über Karten zu bekommen, könnt ihr mittels Strg +
 
 ## Interaktionen mit anderen
 
-Die Event-Plattform besteht aus verschiedenen Karten, die interaktive Elemente wie Webseiten, Audio oder Jitsi-Räume beinhalten können sowie Interaktionen mit anderen Spieler:innen. Interaktionen öffnen sich, wenn Ihr Euch über bestimmte Bereiche bewegt oder auf andere Spieler:innen trefft.
+Die Event-Plattform besteht aus verschiedenen Karten, die interaktive Elemente wie Webseiten, Audio oder Jitsi-Räume beinhalten können, sowie Interaktionen mit anderen Spieler:innen. Interaktionen öffnen sich, wenn Ihr Euch über bestimmte Bereiche bewegt oder auf andere Spieler:innen trefft.
 
 ### Webseiten und Jitsi-Räume
 
