@@ -1,4 +1,4 @@
-baseURL: http://events.unterbachersee.de
+baseURL: http://event.unterbachersee.de
 languageCode: de
 title: Events
 theme: hugo-fresh
