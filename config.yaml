@@ -28,54 +28,54 @@ params:
     # Hero subtitle (optional)
     subtitle: Die Event-Plattform für den Unterbacher See
     # Button text
-    buttontext: Hier starten
+    buttontext: aktuell sind keine Events verfügbar
     # Where the main hero button links to
-    buttonlink: https://world.event.unterbachersee.de/_/global/https://event.unterbachersee.de/map/Parkplatz.json
+    buttonlink: /
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
     # Footer logos (from static/images/logos/clients/___.svg)
     
   # Customizable navbar. For a dropdown, add a "sublinks" list
   navbar:
-  - title: Kurzanleitung
-    url: /anleitung
+  # - title: Kurzanleitung
+  #   url: /anleitung
   - title: Impressum/Datenschutz
     url: /impressum
-  - title: Event besuchen
-    url: https://world.event.unterbachersee.de/_/global/https://event.unterbachersee.de/map/Parkplatz.json
-    button: true
-  section1:
-    title: Events am Unterbacher See
-    subtitle: Zeitplan
-    tiles:
-    - title: Crewtreffen 
-      icon: mouse-globe
-      text: Brunch 11.00 bis 12.00 Uhr
-      url: https://world.event.unterbachersee.de/_/global/https://event.unterbachersee.de/map/Parkplatz.json
-      buttonText: hier starten
-    - title: "offizieller Teil" 
-      icon: laptop-cloud
-      text: Crewgespräch 12.00 bis ca. 13.30 Uhr
-      url: https://stream.unterbachersee.de/b/hol-wcq-b21-tuu
-      buttonText: Konferenzraum 
-    - title: Crewtreffen
-      icon: mouse-globe
-      text: Crewtreffen 13.30 bis ?
-      url: https://world.event.unterbachersee.de/_/global/https://event.unterbachersee.de/map/Parkplatz.json
-      buttonText: hier starten
+  # - title: Event besuchen
+  #   url: https://world.event.unterbachersee.de/_/global/https://event.unterbachersee.de/map/Parkplatz.json
+  #   button: true
+  # section1:
+  #   title: Events am Unterbacher See
+  #   subtitle: Zeitplan
+  #   tiles:
+  #   - title: Crewtreffen 
+  #     icon: mouse-globe
+  #     text: Brunch 11.00 bis 12.00 Uhr
+  #     url: https://world.event.unterbachersee.de/_/global/https://event.unterbachersee.de/map/Parkplatz.json
+  #     buttonText: hier starten
+  #   - title: "offizieller Teil" 
+  #     icon: laptop-cloud
+  #     text: Crewgespräch 12.00 bis ca. 13.30 Uhr
+  #     url: https://stream.unterbachersee.de/b/hol-wcq-b21-tuu
+  #     buttonText: Konferenzraum 
+  #   - title: Crewtreffen
+  #     icon: mouse-globe
+  #     text: Crewtreffen 13.30 bis ?
+  #     url: https://world.event.unterbachersee.de/_/global/https://event.unterbachersee.de/map/Parkplatz.json
+  #     buttonText: hier starten
 
-  section2:
-    title: Wie funktioniert unser virtuelles Crewtreffen?
-    subtitle: Eine Hilfestellung!
-    features:
-    - title: Brunch und inoffizieller Teil
-      text: Wir haben für uns eine virtuelle Welt mit viel sozialem Charakter kreiert. Viele von uns haben sich seit dem Saisonende 2020 nicht mehr gesehen - unser Abschlusstreffen musste leider ausfallen. Deshalb jetzt hier eine virtuelle Welt... Lasst Euch einfach drauf ein, erkundet die Möglichkeiten und trefft aufeinander. Immer, wenn wir uns in der Welt treffen, können wir zu zweit oder in Kleingruppen bis 4 Personen miteinander sprechen. Es wäre prima, wenn Ihr hierfür Euer Mikrofon und Eure Kamera einschaltet. [Weitere Informationen findet Ihr hier ...](/anleitung)
-      buttonText: Anleitung
-      # Icon (from /images/illustrations/icons/___.svg)
-      icon: mouse-globe
-    - title: offizieller Teil
-      text: In unserem offiziellen Teil möchten wir, wie auch sonst bei unseren Crewtreffen, Euch einen Überblick über das letzte Jahr und die kommende Saison geben, Veränderungen erklären und auch ein wenig über den Dienstplan sprechen. Wenn Ihr dem [Link](https://stream.unterbachersee.de/b/hol-wcq-b21-tuu) oben folgt werdet Ihr nach Eurem Namen und einem Zugangscode gefragt. Den Zugangscode habt Ihr mit der Einladung auf Eurem "Platzdeckchen" erhalten. 
-      icon: laptop-cloud
+  # section2:
+  #   title: Wie funktioniert unser virtuelles Crewtreffen?
+  #   subtitle: Eine Hilfestellung!
+  #   features:
+  #   - title: Brunch und inoffizieller Teil
+  #     text: Wir haben für uns eine virtuelle Welt mit viel sozialem Charakter kreiert. Viele von uns haben sich seit dem Saisonende 2020 nicht mehr gesehen - unser Abschlusstreffen musste leider ausfallen. Deshalb jetzt hier eine virtuelle Welt... Lasst Euch einfach drauf ein, erkundet die Möglichkeiten und trefft aufeinander. Immer, wenn wir uns in der Welt treffen, können wir zu zweit oder in Kleingruppen bis 4 Personen miteinander sprechen. Es wäre prima, wenn Ihr hierfür Euer Mikrofon und Eure Kamera einschaltet. [Weitere Informationen findet Ihr hier ...](/anleitung)
+  #     buttonText: Anleitung
+  #     # Icon (from /images/illustrations/icons/___.svg)
+  #     icon: mouse-globe
+  #   - title: offizieller Teil
+  #     text: In unserem offiziellen Teil möchten wir, wie auch sonst bei unseren Crewtreffen, Euch einen Überblick über das letzte Jahr und die kommende Saison geben, Veränderungen erklären und auch ein wenig über den Dienstplan sprechen. Wenn Ihr dem [Link](https://stream.unterbachersee.de/b/hol-wcq-b21-tuu) oben folgt werdet Ihr nach Eurem Namen und einem Zugangscode gefragt. Den Zugangscode habt Ihr mit der Einladung auf Eurem "Platzdeckchen" erhalten. 
+  #     icon: laptop-cloud
 
   # section3:
   #   title: One platform
@@ -104,34 +104,34 @@ params:
     # Logo (from /images/logos/___)
     logo: Logo+Slogan_US_HKS Kopie_OhneFreizeit.png
 
-    bulmalogo: false
-    quicklinks:
-      column1:
-        title: "Informationen"
-        links:
-        - text: FAQs
-          link: /faq
-        - text: Datenschutz
-          link: /impressum
-        - text: Impressum
-          link: /impressum
-      column2:
-        title: "Anleitungen"
-        links:
-        - text: inoffizieller Teil
-          link: /anleitung
-        - text: offizieller Teil
-          link: /posts/anleitung_offiziell
-      column3:
-        title: "Danke!"
-        links:
-        - text: Servertechnik (Finn)
-          link: /posts/it-technik
-        - text: Inhalte (Tjaard)
-          link: /posts/inhalte
-      column4:
-        title: "Hilfestellung"
-        links:
-        - text: Email-Hilfe
-          link: mailto:segelschule@unterbachersee.de    
+    # bulmalogo: false
+    # quicklinks:
+    #   column1:
+    #     title: "Informationen"
+    #     links:
+    #     - text: FAQs
+    #       link: /faq
+    #     - text: Datenschutz
+    #       link: /impressum
+    #     - text: Impressum
+    #       link: /impressum
+    #   column2:
+    #     title: "Anleitungen"
+    #     links:
+    #     - text: inoffizieller Teil
+    #       link: /anleitung
+    #     - text: offizieller Teil
+    #       link: /posts/anleitung_offiziell
+    #   column3:
+    #     title: "Danke!"
+    #     links:
+    #     - text: Servertechnik (Finn)
+    #       link: /posts/it-technik
+    #     - text: Inhalte (Tjaard)
+    #       link: /posts/inhalte
+    #   column4:
+    #     title: "Hilfestellung"
+    #     links:
+    #     - text: Email-Hilfe
+    #       link: mailto:segelschule@unterbachersee.de    
 
